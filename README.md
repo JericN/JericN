@@ -27,4 +27,6 @@ Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for 
 [![Email](https://img.shields.io/badge/📧%20Email-jericnarte912@gmail.com-blue?style=for-the-badge)](mailto:jericnarte912@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Jeric%20Narte-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jericnarte/)
 
+---
 
+Some of my public projects down below 👇
