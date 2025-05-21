@@ -22,8 +22,6 @@ Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for 
 
 ---
 
-Thanks for dropping by — let’s build something awesome! ✨
-
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/📧%20Email-jericnarte912@gmail.com-blue?style=for-the-badge)](mailto:jericnarte912@gmail.com)
