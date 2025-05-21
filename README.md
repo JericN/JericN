@@ -5,11 +5,11 @@ Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for 
 ---
 
 ## 🧠 About Me
-- 🎓 CS undergrad at the University of the Philippines Diliman
 - 🤖 ML/AI Engineer & Full Stack Developer
+- 🐞 Tired of chasing software bugs — now I’m hunting smarter, AI-powered solutions.
 - 🧪 Love building end-to-end systems — from data pipelines and models to clean, functional interfaces
 - 👥 Experienced team lead and project manager across student-led and real-world initiatives
-
+- 🕹️ I love competitive esports, brain-melting roguelites, and chill base-building games.
 ---
 
 ## 🛠️ Tech Stack
@@ -19,13 +19,6 @@ Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for 
 - 🧠 **AI/ML**: PyTorch, TensorFlow, Scikit-learn, LangChain  
 - 🗄️ **Database**: Firebase, Supabase, PostgreSQL + PostGIS  
 - ⚙️ **Backend**: Node.js, Express  
-
----
-
-## 💬 Fun Facts
-- 🕹️ I love competitive esports, brain-melting roguelites, and chill base-building games.
-- 🐞 Tired of chasing software bugs — now I’m hunting smarter, AI-powered solutions.
-- 🌱 Always learning. Always building.
 
 ---
 
