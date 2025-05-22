@@ -1,7 +1,6 @@
 # Hi there, I'm Jeric! 👋
 
-Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for AI, full-stack development, and building practical (and occasionally chaotic) projects that solve real-world problems. 🚀
-
+Fueled by a passion for AI and full-stack development, I love creating practical—and sometimes chaotic—projects that solve real-world problems. Constantly driven to innovate, I aim to build solutions that truly make an impact. 🚀
 
 ## 🧠 About Me
 - 🤖 ML/AI Engineer & Full Stack Developer
@@ -9,7 +8,6 @@ Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for 
 - 🧪 Love building end-to-end systems — from data pipelines and models to clean, functional interfaces
 - 👥 Experienced team lead and project manager across student-led and real-world initiatives
 - 🕹️ I love competitive esports, brain-melting roguelites, and chill base-building games.
-
 
 ## 🛠️ Tech Stack
 <table>
@@ -52,11 +50,9 @@ Welcome to my hub! I'm a soon-to-graduate Computer Scientist with a passion for 
   </tr>
 </table>
 
-
 ## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/📧%20Email-jericnarte912@gmail.com-blue?style=for-the-badge)](mailto:jericnarte912@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗%20LinkedIn-Jeric%20Narte-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jericnarte/)
-
 
 Some of my public projects down below 👇
